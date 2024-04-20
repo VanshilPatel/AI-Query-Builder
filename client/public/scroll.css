@@ -1,0 +1,4 @@
+
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar width for WebKit browsers */
+  }
